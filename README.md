@@ -1,3 +1,5 @@
+<img src="https://farm5.staticflickr.com/4451/37534898671_329fe37e6e.jpg" width="446" height="156" alt="Bluemix Logo">
+
 # BlueMix-cheat-sheet
 
 Sign up to the IBM Cloud, bluemix.net http://bit.ly/2xYo0Ko
