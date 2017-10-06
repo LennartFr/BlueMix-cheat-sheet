@@ -30,6 +30,23 @@ https://console.bluemix.net/catalog/
 ## Work on your laptop
 <img src="https://farm5.staticflickr.com/4455/36865358803_debcabb822.jpg" width="418" height="242" alt="Files">
 
+## The manifest.yml file 
+
+```
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: LennartFlask
+  host: LennartFlask
+  disk_quota: 1024M
+  services:
+  - availability-monitoring-auto
+  buildpack: python_buildpack
+```
+
+
 ## Push the app to Bluemix
 <img src="https://farm5.staticflickr.com/4466/37275143510_bed56c8df8_z.jpg" width="640" height="282" alt="Bluemix 6">
 
