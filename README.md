@@ -22,6 +22,7 @@ https://console.bluemix.net/catalog/
 
 <img src="https://farm5.staticflickr.com/4466/37275143510_bed56c8df8_z.jpg" width="640" height="282" alt="Bluemix 6">
 
+<img src="https://farm5.staticflickr.com/4464/36864516803_a3b79d2d81_z.jpg" width="640" height="350" alt="Flask Console">
 
 
 
