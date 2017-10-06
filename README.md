@@ -29,6 +29,9 @@ https://console.bluemix.net/catalog/
 ## Connecting to a services
 <img src="https://farm5.staticflickr.com/4474/37487059056_4afe372406_z.jpg" width="640" height="227" alt="Connecting Services">
 
+## Connecting to Cloudant
+<img src="https://farm5.staticflickr.com/4447/37504015812_b868bb493b_z.jpg" width="640" height="571" alt="Cloudant">
+
 ## Download to your laptop
 <img src="https://farm5.staticflickr.com/4503/37533000711_e4901daaf0_z.jpg" width="640" height="306" alt="BluemixCatalogFlask3">
 
