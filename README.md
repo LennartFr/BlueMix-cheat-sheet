@@ -18,11 +18,11 @@ https://console.bluemix.net/catalog/
 ## Fill in the Parameters and create the service
 <img src="https://farm5.staticflickr.com/4456/37485097406_282f686f8c_z.jpg" width="640" height="342" alt="BluemixCatalogFlask2">
 
-## The navigation Menu
-<img src="https://farm5.staticflickr.com/4465/23681963188_76b1891222.jpg" width="165" height="350" alt="Getting Started">
-
 ## The Flask Console
 <img src="https://farm5.staticflickr.com/4464/36864516803_a3b79d2d81_z.jpg" width="640" height="350" alt="Flask Console">
+
+## The navigation Menu
+<img src="https://farm5.staticflickr.com/4465/23681963188_76b1891222.jpg" width="165" height="350" alt="Getting Started">
 
 ## Download to your laptop
 <img src="https://farm5.staticflickr.com/4503/37533000711_e4901daaf0_z.jpg" width="640" height="306" alt="BluemixCatalogFlask3">
