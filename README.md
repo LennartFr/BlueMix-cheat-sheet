@@ -21,7 +21,7 @@ https://console.bluemix.net/catalog/
 ## Download to your laptop
 <img src="https://farm5.staticflickr.com/4503/37533000711_e4901daaf0_z.jpg" width="640" height="306" alt="BluemixCatalogFlask3">
 
-## Bluemix Instructions
+## Work on your laptop
 <img src="https://farm5.staticflickr.com/4489/36864017573_dc112d6eb6_z.jpg" width="640" height="338" alt="Bluemix 4">
 
 ## Push the app to Bluemix
