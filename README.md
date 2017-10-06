@@ -12,5 +12,7 @@ https://console.bluemix.net/catalog/
 
 <img src="https://farm5.staticflickr.com/4461/37274490530_557edf373c_z.jpg" width="587" height="328" alt="BluemixCatalog">
 
+<img src="https://farm5.staticflickr.com/4445/23680630568_f9a8ebbe7b_z.jpg" width="640" height="271" alt="BluemixCatalogFlask">
+
 
 
