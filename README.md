@@ -54,13 +54,14 @@ applications:
   buildpack: python_buildpack
 ```
 
-
 ## Push the app to Bluemix
 <img src="https://farm5.staticflickr.com/4466/37275143510_bed56c8df8_z.jpg" width="640" height="282" alt="Bluemix 6">
 
 ## Running your app on Bluemix
 <img src="https://farm5.staticflickr.com/4467/37502815812_e7079fb1df_z.jpg" width="640" height="296" alt="Hi There">
 
-
 ## Tip for hackathons
 Run the app on your laptop and connect to services in the cloud.
+
+# Watson Developer Journeys
+[Watson Developer Journeys](https://developer.ibm.com/code/journey/category/artificial-intelligence/)
