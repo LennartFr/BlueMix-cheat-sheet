@@ -24,6 +24,9 @@ https://console.bluemix.net/catalog/
 ## Work on your laptop
 <img src="https://farm5.staticflickr.com/4489/36864017573_dc112d6eb6_z.jpg" width="640" height="338" alt="Bluemix 4">
 
+<img src="https://farm5.staticflickr.com/4505/36824681984_6fdc8cf255.jpg" width="165" height="350" alt="Getting Started">
+
+
 ## Push the app to Bluemix
 <img src="https://farm5.staticflickr.com/4466/37275143510_bed56c8df8_z.jpg" width="640" height="282" alt="Bluemix 6">
 
