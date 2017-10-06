@@ -19,7 +19,7 @@ https://console.bluemix.net/catalog/
 <img src="https://farm5.staticflickr.com/4456/37485097406_282f686f8c_z.jpg" width="640" height="342" alt="BluemixCatalogFlask2">
 
 ## The navigation Menu
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/dpu/23681963188/in/dateposted-public/" title="Getting Started"><img src="https://farm5.staticflickr.com/4465/23681963188_76b1891222.jpg" width="165" height="350" alt="Getting Started"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="https://farm5.staticflickr.com/4465/23681963188_76b1891222.jpg" width="165" height="350" alt="Getting Started">
 
 ## The Flask Console
 <img src="https://farm5.staticflickr.com/4464/36864516803_a3b79d2d81_z.jpg" width="640" height="350" alt="Flask Console">
