@@ -54,4 +54,5 @@ applications:
 <img src="https://farm5.staticflickr.com/4467/37502815812_e7079fb1df_z.jpg" width="640" height="296" alt="Hi There">
 
 
-
+## Tip for hackathons
+Run the app on your laptop and connect to services in the cloud.
