@@ -2,6 +2,8 @@
 
 # BlueMix Hackathon cheat-sheet  http://bit.ly/2fRWd6n
 
+alf@us.ibm.com
+
 Sign up to the IBM Cloud, bluemix.net http://bit.ly/2xYo0Ko  (We have promocodes)
 
 ## Navigate the Catalog
