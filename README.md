@@ -2,7 +2,7 @@
 
 # BlueMix Hackathon cheat-sheet  http://bit.ly/2fRWd6n
 
-alf@us.ibm.com
+alf@us.ibm.com Developer Advocate with IBM.
 
 Sign up to the IBM Cloud, bluemix.net http://bit.ly/2xYo0Ko  (We have promocodes)
 
