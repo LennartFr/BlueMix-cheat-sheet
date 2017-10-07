@@ -64,5 +64,6 @@ applications:
 Run the app on your laptop and connect to services in the cloud.
 
 # Watson Developer Journeys
+* [All Developer Journeys](https://developer.ibm.com/code/journey/)
 * [Watson Developer Journeys](https://developer.ibm.com/code/journey/category/artificial-intelligence/)
 * [Create an investment management chatbot](https://github.com/IBM/personal-wealth-portfolio-mgt-bot?cm_sp=IBMCode-_-create-an-investment-management-chatbot-_-Get-the-Code)
