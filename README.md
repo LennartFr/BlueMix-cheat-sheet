@@ -32,7 +32,7 @@ https://console.bluemix.net/catalog/
 ## Connecting to Cloudant
 <img src="https://farm5.staticflickr.com/4447/37504015812_b868bb493b_z.jpg" width="640" height="571" alt="Cloudant">
 
-## Download to your laptop
+## (Getting Started) Download to your laptop
 <img src="https://farm5.staticflickr.com/4503/37533000711_e4901daaf0_z.jpg" width="640" height="306" alt="BluemixCatalogFlask3">
 
 ## Work on your laptop
