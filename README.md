@@ -63,6 +63,8 @@ applications:
 ## Tip for hackathons
 Run the app on your laptop and connect to services in the cloud.
 
+# Watson Services https://www.ibm.com/watson/products-services/
+
 # Watson Developer Journeys
 * [All Developer Journeys](https://developer.ibm.com/code/journey/)
 * [Watson Developer Journeys](https://developer.ibm.com/code/journey/category/artificial-intelligence/)
